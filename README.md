@@ -7,3 +7,5 @@
 + 소스 컨트롤에서 commit 저장하기( add + commit)
 + index.html 추가
 + 내 컴퓨터에서 비주얼 스튜디오 코드로 수정 후 커밋하고 깃허브로 올림 push
+
+[호스팅주소](https://teckhyeon.github.io/git-test/)
